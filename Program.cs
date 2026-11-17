@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿namespace SYSTEM
 {
     internal class Program
@@ -11,3 +12,6 @@
         }
     }
 }
+=======
+﻿Console.WriteLine("Hello, World!");
+>>>>>>> fdd01be1138051aff7166b449ac0dd7981543344
