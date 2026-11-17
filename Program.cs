@@ -4,17 +4,6 @@ using System.Globalization;
 using System.IO;
 
 namespace RestaurantOrderSystem
-{
-    class Program
-    
-        // PERSON 6 - Person6_FileStorage.cs
-// Laman: BuildOrderRows, SaveOrder, ReadSavedRecords, GetNextOrderId
-using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.IO;
-
-namespace RestaurantOrderSystem
     {
         partial class Program
         {
@@ -130,5 +119,4 @@ namespace RestaurantOrderSystem
             }
         }
     }
-
 }
